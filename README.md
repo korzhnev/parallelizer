@@ -15,7 +15,7 @@ For effective separation of actions into groups, optimized Union-Find data struc
 under the hood (see package `unionfind`).
 
 ## Install
-`go get github.com/korzhnev/unionfind`
+`go get github.com/korzhnev/unionfind`  
 `go get github.com/korzhnev/parallelizer`
 
 ## Usage
