@@ -2,7 +2,7 @@ package parallelizer
 
 import (
 	"sync"
-	"github/korzhnev/unionfind"
+	"github.com/korzhnev/unionfind"
 )
 
 // Process actions bundle
